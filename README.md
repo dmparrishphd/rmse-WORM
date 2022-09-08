@@ -1,2 +1,1 @@
-# rmse-WORM
-compute the root mean square error (RMSE)
+[README](https://github.com/dmparrishphd/rmse-CORW#readme).
